@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi I'm ChandraSekhar
 💫About Me:<br>I’m chandrasekhar, a passionate web developer with hands-on experience in building responsive and user-friendly applications using React.js ,Html , Css. I’ve developed multiple real-world projects, including a Movies data app , and an e-commerce website(Amazon clone)— all designed with a focus on functionality and clean UI.<br><br>Skills & Expertise:<br>Development: React.js,HTML, CSS,JavaScript<br>Backend Development: Node.js,Express.js<br>Database Management: MongoDB (NoSQL),SQL,MySQL<br>Core Programming Languages: Java(Basics),Python<br>Tools & Platforms: GitHub
 
 
